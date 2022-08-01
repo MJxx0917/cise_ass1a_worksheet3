@@ -1,0 +1,25 @@
+{
+  "name": "cise_ass1a_worksheet3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/MJxx0917/cise_ass1a_worksheet3.git)"
+  },
+  "author": "Wei Qu",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0",
+    "validation": "^0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
